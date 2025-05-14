@@ -1,7 +1,7 @@
 div.container {
     display: flex;
     justify-self: center;
-    border: 2px, white, solid;
+    /* border: 2px, white, solid; */
 }
 
 div {
@@ -11,7 +11,7 @@ div {
     text-align: center;
     justify-content: center;
     margin: auto;
-    padding: 0;
+    padding-top: 10px;
 }
 
 body {
@@ -35,4 +35,9 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
+}
+
+#cellphone {
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
